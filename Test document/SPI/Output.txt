@@ -1,0 +1,35 @@
+
+
+BMP280 SPI  interface
+
+
+Sensor ID: 58
+dig_t1 : 27102
+dig_t2 : 26702
+dig_t3 : 64536
+ADC value : 524288
+Temperature : 28.76
+
+Sensor ID: 58
+dig_t1 : 27102
+dig_t2 : 26702
+dig_t3 : 64536
+ADC value : 524288
+Temperature : 28.76
+
+Sensor ID: 58
+dig_t1 : 27102
+dig_t2 : 26702
+dig_t3 : 64536
+ADC value : 524288
+Temperature : 28.76
+
+Sensor ID: 58
+dig_t1 : 27102
+dig_t2 : 26702
+dig_t3 : 64536
+ADC value : 524288
+Temperature : 28.76
+
+
+Vedio link: https://drive.google.com/file/d/1U_c-zWKOIbS-a5m3oJlZNQmRadjsM4tI/view?usp=drivesdk
