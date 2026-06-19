@@ -112,7 +112,7 @@ Clears OVR flag by dummy read sequence.
 
 -   Every transmit generates a receive
 -   **RXNE** must be checked before reading Data Register
--  **TXE** must be checked before writing data to Data Register 
+-   **TXE** must be checked before writing data to Data Register 
 -   Dummy writes (0xFF) are used for clock generation
 
 ----------
@@ -123,13 +123,9 @@ Clears OVR flag by dummy read sequence.
 -  Prevents MODF (mode fault)
 
 ### 4. Overrun Handling
-Overrun occurs when RX data is not read in time.
-Fix:
 
-```
-temp = SPI_DR;
-temp = SPI_SR;
-```
+Overrun occurs when RX data is not read in time.
+
 ## Notes
 
 - Always wait for `BSY = 0` before deasserting CS
